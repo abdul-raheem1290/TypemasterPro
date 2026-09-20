@@ -1,0 +1,6 @@
+{
+  "name": "TypeMaster Pro",
+  "description": "Master touch typing with 100+ structured lessons, real-time analytics, typing speed tests, gamified practice, weak-key coaching, and certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
